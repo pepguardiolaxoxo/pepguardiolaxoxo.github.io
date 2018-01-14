@@ -1,0 +1,21 @@
+.pep-bg {
+  background: url(../img/pep-hi-res.jpg);
+  background-size: cover;
+}
+
+.text-white {
+  color: white;
+}
+
+.img-width-fix {
+  max-width: 100%;
+}
+
+.grey-bg {
+  background: #eee;
+}
+
+.custom-bath-icon {
+  font-size: 20px;
+  color: #D4AF6A;
+}
